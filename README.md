@@ -1,2 +1,6 @@
-Customer Behaviour Analysis Project using Python.
-Performed EDA and visualized customer purchase patterns.
+Customer Behaviour Analysis Project
+
+This project focuses on analyzing customer purchasing behavior using Python.
+It includes data cleaning, exploratory data analysis (EDA), and visualization to identify patterns in customer transactions.
+
+Tools used: Python, Pandas, Matplotlib, Seaborn
